@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning in IoT
 - 🌱 I’m currently learning Machine Learning / Algorithm 
 - 💞️ I’m looking to collaborate on Machine learning projects
-- 📫 How to reach me y907835786@163.com
+- 📫 How to reach me jlyang@seu.edu.cn
 
 <!---
 Acveah/Acveah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
