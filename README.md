@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Acveah
 - 👀 I’m interested in Machine Learning in IoT
 - 🌱 I’m currently learning Machine Learning / Algorithm 
-- 💞️ I’m looking to collaborate on Machine learning projects
+- 💞️ I’m looking to collaborate with someone like you
 - 📫 How to reach me jlyang@seu.edu.cn
 
 <!---
