@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Acveah
-- 👀 I’m interested in Machine Learning & Edge Computing
+- 👀 I’m interested in Machine Learning & Microservice
 - 🌱 I’m currently learning Machine Learning / Algorithm 
 - 💞️ I’m looking to collaborate with someone like you
 - 📫 How to reach me jlyang@seu.edu.cn
